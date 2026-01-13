@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # 尝试使用绝对路径
-          path: ./.vitepress/dist
+          path: ./docs/.vitepress/dist
 
   deploy:
     environment:
