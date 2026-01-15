@@ -7,7 +7,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '新手教程', link: '/guide/' },
+      { text: '指南', link: '/guide/' },
       { text: '捐助支持', link: '/donate' },
     ],
     sidebar: {

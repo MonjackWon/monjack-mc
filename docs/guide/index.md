@@ -1,0 +1,3 @@
+- [如何进入](/guide/join)
+- [资源下载](/guide/resources)
+- [规则说明](/guide/rules)
