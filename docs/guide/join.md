@@ -8,7 +8,7 @@
 
 ## 导入整合包
 
-1. 从[蓝奏云](https://wwatx.lanzouu.com/i6Qq63g6ewkh)网盘下载
+1. 从[蓝奏云](https://wwatx.lanzouu.com/iovYE3g6hpxg)网盘下载
 2. 打开PCL，点击*版本选择，*再点击*导入整合包*选择刚刚下载到本地的压缩包文件（不要解压！！）
 3. 等待资源下载完成
 
