@@ -9,6 +9,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '指南', link: '/guide/' },
       { text: '世界地图', link: 'https://map.mc.monjack.cn/#world' },
+      { text: '更新日志', link: '/changelog' },
       { text: '捐助支持', link: '/donate' }
     ],
     sidebar: {
@@ -17,6 +18,7 @@ export default defineConfig({
           text: '玩家指南',
           items: [
             { text: '如何进入', link: '/guide/join' },
+            { text: '资源下载', link: '/guide/resources' },
             { text: '规则说明', link: '/guide/rules' },
             { text: '待完善...', link: '/guide/' },
           ],
