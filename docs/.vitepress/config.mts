@@ -8,7 +8,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '指南', link: '/guide/' },
-      { text: '世界地图', link: 'https://map.mc.monjack.cn' },
+      { text: '世界地图', link: 'https://map.mc.monjack.cn/#world' },
       { text: '捐助支持', link: '/donate' }
     ],
     sidebar: {
